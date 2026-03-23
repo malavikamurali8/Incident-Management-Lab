@@ -1,2 +1,2 @@
-# incident-management-lab
+# Incident-Management-Lab
 Login issue - incidents
