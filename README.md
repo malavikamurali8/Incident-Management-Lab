@@ -33,13 +33,13 @@ User was unable to log in to the system due to incorrect password attempts, resu
 
 ## Screenshots
 ### Before Fix
-![Before](../screenshots/login_issue_before.png)
+screenshots
 
 ### Password Reset
-![Reset](../screenshots/password_reset.png)
+screenshots
 
 ### After Fix
-![After](../screenshots/login_success.png)
+screenshots
 
 ## Prevention
 - Avoid multiple incorrect login attempts
