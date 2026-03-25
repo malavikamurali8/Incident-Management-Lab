@@ -31,16 +31,6 @@ User was unable to log in to the system due to incorrect password attempts, resu
 - Account access restored
 - User able to log in successfully
 
-## Screenshots
-### Before Fix
-screenshots
-
-### Password Reset
-screenshots
-
-### After Fix
-screenshots
-
 ## Prevention
 - Avoid multiple incorrect login attempts
 - Use password manager if needed
